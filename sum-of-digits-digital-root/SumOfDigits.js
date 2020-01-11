@@ -16,5 +16,3 @@ function calculate(arr) {
     }
     return reduced
 }
-
-console.log(digital_root(57))
