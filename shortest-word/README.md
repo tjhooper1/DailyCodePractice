@@ -8,4 +8,4 @@ String will never be empty and you do not need to account for different data typ
 
 ``findShort("This is a test") => 1``
 
-``findShort("Hello to you") => 2``
+``findShort("Hello to you") => 2`
