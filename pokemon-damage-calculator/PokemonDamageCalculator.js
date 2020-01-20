@@ -1,7 +1,6 @@
 //damage = 50 * (attack/defense) * effectiveness
 
 function calculateDamage(yourType, opponentType, attack, defense) {
-    console.log(yourType, opponentType, attack, defense);
     let multiplyer = 1;
     if (attacks[yourType].strength.includes(opponentType)) {
         multiplyer = 2;
