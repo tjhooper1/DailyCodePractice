@@ -8,6 +8,6 @@ In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G
 
 More similar exercise are found here http://rosalind.info/problems/list-view/ (source)
 
-``DNAStrand ("ATTGC") // return "TAACG"
 
-DNAStrand ("GTAT") // return "CATA" ``
+`DNAStrand ("ATTGC") // return "TAACG" `
+`DNAStrand ("GTAT") // return "CATA"`
