@@ -10,4 +10,5 @@ More similar exercise are found here http://rosalind.info/problems/list-view/ (s
 
 
 `DNAStrand ("ATTGC") // return "TAACG" `
+
 `DNAStrand ("GTAT") // return "CATA"`
