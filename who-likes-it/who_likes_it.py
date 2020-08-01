@@ -10,3 +10,4 @@ def likes(names):
   if len(names) > 3:
     name_1,name_2, *rest = names
     return '{}, {} and {} others like this'.format(name_1, name_2, len(rest))
+
