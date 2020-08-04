@@ -4,9 +4,9 @@ In this Kata, you will be given a string and your task will be to return a list 
 
 ```Solve("*'&ABCDabcde12345") = [4,5,5,3]. 
 --the order is: uppercase letters, lowercase, numbers and special characters.
+```
 ***
 Example Tests: 
-```
 
 ```assertArrayEquals(new int[]{1,18,3,2}, Kata.Solve("Codewars@codewars123.com"));
         assertArrayEquals(new int[]{8,6,3,2}, Kata.Solve("CbgA5<1d-tOwUZTS8yQ"));
