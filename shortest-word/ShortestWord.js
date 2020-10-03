@@ -12,3 +12,4 @@ function findShort(s) {
     return shortestWordLength;
 }
 
+console.log(findShort("it is david"))
